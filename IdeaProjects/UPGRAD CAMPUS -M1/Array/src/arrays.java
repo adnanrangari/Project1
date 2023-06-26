@@ -1,4 +1,4 @@
-/* documentation on array code*/
+/* adding documentation on array code */
 public class arrays {
     public static void main(String[] args)
     {
