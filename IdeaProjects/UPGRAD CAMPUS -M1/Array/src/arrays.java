@@ -1,4 +1,3 @@
-/* adnan modifing array code on local repo to update on remote[github]repo */
 public class arrays {
     public static void main(String[] args)
     {
